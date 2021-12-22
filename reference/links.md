@@ -2,17 +2,22 @@ COLOR DATA
 ---
 Information and References
 
-LINKS
----
-
 Opentoonz Discord color and palettes channel (chat):  https://discord.gg/K5czs5n4yS
 
-SOFTWARE
----
-Palette Editor<br>
-View, Edit, Convert and more...<br>
-https://wolfinabowl.itch.io/palette-viewer-editor
+|SOFTWARE|Description|Author|Link|
+|-|-|-|-|
+|Palette Editor|View, Edit, Convert etc.|Wolf in a Bowl|https://wolfinabowl.itch.io/palette-viewer-editor|
 
+
+|TOPIC|LINK|
+|-|-|
+|OPENTOONZ||
+|EXTERNAL PALETTES|  https://opentoonz.readthedocs.io/en/latest/applying_special_fx.html#external-palette|
+
+<br>
+---
+---
+---
 
 ADDITIONAL INFORMATION
 ---
