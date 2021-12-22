@@ -4,6 +4,9 @@ Information and References
 
 Opentoonz Discord color and palettes channel (chat):  https://discord.gg/K5czs5n4yS
 
+PALETTES
+https://github.com/OpenAnimationLibrary/color/tree/main/palettes/tpl
+
 |Software|Description|Author|Link||
 |-|-|-|-|-|
 |Palette Editor|View, Edit, Convert etc.|Wolf in a Bowl|https://wolfinabowl.itch.io/palette-viewer-editor||
