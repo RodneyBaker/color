@@ -12,7 +12,7 @@ Opentoonz Discord color and palettes channel (chat):  https://discord.gg/K5czs5n
 |Topic|Link|
 |-|-|
 |OPENTOONZ||
-|EXTERNAL PALETTES|  https://opentoonz.readthedocs.io/en/latest/applying_special_fx.html#external-palette|
+|External Palettes|  https://opentoonz.readthedocs.io/en/latest/applying_special_fx.html#external-palette|
 
 <br>
 ADDITIONAL INFORMATION
