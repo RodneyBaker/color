@@ -7,12 +7,14 @@ Opentoonz Discord color and palettes channel (chat):  https://discord.gg/K5czs5n
 |Software|Description|Author|Link|
 |-|-|-|-|
 |Palette Editor|View, Edit, Convert etc.|Wolf in a Bowl|https://wolfinabowl.itch.io/palette-viewer-editor|
-
+|||
 
 |Topic|Link|
 |-|-|
 |OPENTOONZ||
-|External Palettes|  https://opentoonz.readthedocs.io/en/latest/applying_special_fx.html#external-palette|
+|The Palette Editor| https://opentoonz.readthedocs.io/en/latest/managing_palettes_and_styles.html#the-palette-editor|
+|External Palettes| https://opentoonz.readthedocs.io/en/latest/applying_special_fx.html#external-palette|
+|||
 
 <br>
 ADDITIONAL INFORMATION
