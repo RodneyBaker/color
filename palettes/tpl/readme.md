@@ -1,3 +1,6 @@
 Opentoonz palettes
 
-This location is provided to collect .tpl (toonz palette) files.
+Purpose
+To collect .tpl (toonz palette) files.
+
+Files are licensed as Modified BSD unless otherwise specified.
