@@ -4,6 +4,14 @@ LINKS
 
 Opentoonz Discord color and palettes channel (chat):  https://discord.gg/K5czs5n4yS
 
+SOFTWARE
+
+Palette Editor
+View, Edit, Convert and more...
+https://wolfinabowl.itch.io/palette-viewer-editor
+
+
+ADDITIONAL INFORMATION
 
 Adam Earl submits:
 
