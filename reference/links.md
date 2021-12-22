@@ -16,10 +16,9 @@ Opentoonz Discord color and palettes channel (chat):  https://discord.gg/K5czs5n
 
 <br>
 ADDITIONAL INFORMATION
----
+<br>
+
 Adam Earl recommends (links):
-
-https://images.app.goo.gl/xboJTnrfEUXah29R9
-
-https://www.jacksonsart.com/winsor-newton-professional-watercolour-hand-painted-colour-chart
+- https://images.app.goo.gl/xboJTnrfEUXah29R9
+- https://www.jacksonsart.com/winsor-newton-professional-watercolour-hand-painted-colour-chart
 
